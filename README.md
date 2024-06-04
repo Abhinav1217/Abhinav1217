@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an experianced backend developer with over 8 years of cumelative freelance experiance as a backend engineer. On top of that, I have about 2-3 years of corporate work experiance. 
+I am an experianced backend developer with over 8 years of cumelative freelance experiance as a backend engineer. On top of that, I have about 5 years of corporate work experiance. 
 
 I have worked in many technologies and thrive to learn new technologies as the world moves on to next things. Some areas I have worked on :- 
 
@@ -11,7 +11,7 @@ I have worked in many technologies and thrive to learn new technologies as the w
 - Dotnet Core 6/7 (Both on windows and Linux), 
 - Android (Java/Kotlin). 
 
-In addition to above, I have training and hands-on experiance in Bash scripting, and linux administration, both in personal life and professional life. I have also mentored young souls to get in love with programming and open source.
+In addition to above, I have training and hands-on experiance in Bash scripting, LUA scription and linux administration, both in personal life and professional life. I have also mentored young souls to get in love with programming and open source.
 
 I am a linux guy at heart. Loves working with open source stuff. I was core maintainer of Fedy, got the project directly from its author, and maintained it until the project was accepted into RPM Fusion repos at around 2015. Since then I have contributed on many project mainly around testing and publishing of apps on various linux distros.
 
@@ -32,7 +32,7 @@ I am a linux guy at heart. Loves working with open source stuff. I was core main
   -  -  [ ] Tauri.
   -  -  [ ] Rust.
   -  -  [x] SvelteKit
-  -  -  [ ] AstroJS (Learn about Island Architecture).
+  -  -  [x] AstroJS (Learn about Island Architecture).
 
 - 👯 I’m looking to collaborate on 
     - The IDE project: It is collection of Neovim config and Emacs Config files, to create your perfect lightweight IDE

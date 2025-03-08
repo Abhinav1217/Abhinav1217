@@ -52,6 +52,8 @@ I am a linux guy at heart. Loves working with open source stuff. I was core main
     [![Reddit](https://img.shields.io/badge/-Reddit-FF4301?style=flat-square&logo=Reddit&logoColor=white&logoWidth=20)](https://www.reddit.com/user/Abhinav1217)
 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhinav1217&theme=onedark)](https://github.com/Abhinav1217)
 <!--
 **Abhinav1217/Abhinav1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
